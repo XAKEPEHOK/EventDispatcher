@@ -5,12 +5,9 @@
  * Datetime: 20.08.2017 1:21
  */
 
-namespace Leadvertex\Core\Events;
+namespace XAKEPEHOK\EventDispatcher;
 
-use XAKEPEHOK\EventDispatcher\EventDispatcher;
-use XAKEPEHOK\EventDispatcher\EventDispatcherException;
-use XAKEPEHOK\EventDispatcher\EventInterface;
-use XAKEPEHOK\EventDispatcher\ListenerInterface;
+
 use PHPUnit\Framework\TestCase;
 use Psr\Container\ContainerInterface;
 
