@@ -2,7 +2,7 @@
     "name": "xakepehok/event-dispatcher",
     "type": "library",
     "description": "EventDispatcher",
-    "license": "BSD 3-Clause",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "XAKEPEHOK",
